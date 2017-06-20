@@ -16,7 +16,7 @@
 			</div>
 		</div>
 
-		<div class="col-xs-12 col-lg-4 col-lg-push-4">
+		<div class="col-xs-12 col-lg-12">
 			<div class="header-btn-wrap">
 				<?php thelegalway_header_btn(); ?>
 			</div>

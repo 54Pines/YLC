@@ -6182,7 +6182,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 @media (min-width: 768px) {
 	.site-header.style-7 .header-btn-wrap {
-		text-align: right;
+		text-align: center;
 	}
 }
 
