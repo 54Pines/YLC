@@ -9,7 +9,7 @@
 ?>
 <div class="header-container_wrap container">
 	<div class="row row-lg-center">
-		<div class="col-xs-12 col-lg-4 col-lg-push-4">
+		<div class="col-xs-12 col-lg-12">
 			<div class="site-branding">
 				<?php thelegalway_header_logo() ?>
 				<?php thelegalway_site_description(); ?>
