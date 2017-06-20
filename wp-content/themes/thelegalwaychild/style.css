@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/*!
+Theme Name: Thelegalwaychild
+Theme URI: http://www.templatemonster.com/wordpress-themes.php
+Author: Template Monster
+Author URI: http://www.templatemonster.com/
+Template: thelegalway
+Description: Thelegalway - Private lawyer website.
+Version: 1.0.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: thelegalway
+Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-menu, featured-images, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, grid-layout, custom-header, custom-logo, footer-widgets, flexible-header, blog
+Template Id: 61148
+*/
+@import "../Thelegalway/style.css";

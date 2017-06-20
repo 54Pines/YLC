@@ -1,0 +1,13 @@
+/* #Footer */
+.site-footer {
+	background-color: $footer_bg;
+}
+.footer-area-wrap {
+	background-color: $footer_widgets_bg;
+}
+.site-footer .invert a:not([href^='tel:']) {
+	color: $invert_link_hover_color;
+}
+.site-footer .invert a:not([href^='tel:']):hover {
+	color: $invert_link_color;
+}
